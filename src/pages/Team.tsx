@@ -1,4 +1,3 @@
-
 import React from 'react';
 import Layout from '@/components/layout/Layout';
 import SectionHeading from '@/components/ui/SectionHeading';
@@ -10,7 +9,7 @@ const Team = () => {
       name: "Shaik Sameer Pasha",
       title: "Founder & Chief Executive Officer",
       description: "Hardware Developer — CAD Developer",
-      imageSrc: "https://placeholder.pics/svg/300x300/DEDEDE/555555/Shaik%20Sameer",
+      imageSrc: "https://media-hosting.imagekit.io/733720f1c9394d99/Shaik%20Sameer%20Pasha%20Hardware%20Developer%20CAD%20developer%203rd%20Year%20SRMIST.png?Expires=1837955821&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=cg75quE1NH2hotFZG3yWkLg3mt1YUKISqki6BtjWI8iy1Oja7LiDBJtPBV~y7rpcTsl2gkqIDz5mH38lFjCwgiOzRTcmpmxFp0PgCV1oo~lVBhmH3xY~ZKbN6nKIVf9NEqk9FBLi9hXq2Fi-cX7ENxQbaMa88MmZ6YTS47RB57BAPjOdZ9tF6VR3lxUPnbJWSBB4wDlOgUFM8aI4fDvQbMcUKACJIioBMIYuuAtGLoTCIpytI07mqQuZlkkWucZIZkZIhOtvJ57LIU0FEezsgt4l6NqVcbESSAccjOlwScr~pSYtNyWFRQDqgYSWEUOt~x-IdQLZN9ohKyFEpfHZ8w__",
       linkedin: "https://www.linkedin.com/",
       email: "bharatdronetech@gmail.com"
     },
@@ -29,14 +28,14 @@ const Team = () => {
       name: "Dr. C. Muralidharan",
       title: "Design Expert and Patent Drafter",
       description: "Project Manager I — Faculty at SRMIST University",
-      imageSrc: "https://placeholder.pics/svg/300x300/DEDEDE/555555/Dr.%20Muralidharan",
+      imageSrc: "https://media-hosting.imagekit.io/bb3f6342bf1e403a/Dr.C.Muralidharan%20Assistant%20Professor%20SRMIST.png?Expires=1837955821&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=O8gLJ2T54CU58U3rLOfS5eBx-yl6IrGTnAgM3lYR0xgVUAtEFFq9S0HLWM2cvZZ3UVX31RcbJBcJhCWDunrmz8ufMf6pjzcP5uVsPKpoMcbVnfv81OXqD96eSZwIs71g7Om16A4RdGQSzR8TmIX2KpeN-SsNSbF2kOwiMdbWSTZ~rKlX8nbjKjE3YzrsL5nNANePsjR-YreV8vDpmeayUFX86n2f8TayRsyaf9QrawqABfGOmAYLb2FUhg1VBixOqaUexM9bz2lgMDzzJGlL8dRNxYkFgiOMArJjRzmlH4NiCtnWyk3~v7A1xqY1wxDpuSvyaGjMrKNsW7zI9X0PTQ__",
       linkedin: "https://www.linkedin.com/"
     },
     {
       name: "R.V. Arulalan",
       title: "IoT-Enabled Product Development",
       description: "Project Manager II — Faculty at SRMIST University",
-      imageSrc: "https://placeholder.pics/svg/300x300/DEDEDE/555555/R.V.%20Arulalan",
+      imageSrc: "https://media-hosting.imagekit.io/54d07472590f4ed8/DR.V.%20Arulalan%20Assistant%20Professor%20SRMIST.png?Expires=1837955821&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=yMITW-2nJ6-Kp7UlngtcG4WLuy3xjUU7QGo9tPVPA-n5C0B-L5hpP2wzsoINshU0eP2osFDP-OrBM0p1zeLh70jXw-bYTrW2k61lyL9Iyf4sCuKpjDyuCCZCduN0GrBOm~bV7cjFy0-uRf-4ZfeiDdKwTr4-CkkXILYDl0RzWLmJTq1OdXk2p2~ilbIdEWBk3K9qmjoA31VElytiwpPHgBXOB4qB7UVFTjS8prBX5VXawGBf0h0D~tIyHNnYU4GD3XXAAVdcrwcrQpkuDRcxxcPPng8p1yG7aX6IVdCMvCcW74oTOIG06rRBzssjSGGGDBhKeuzi5lTYLXjdVp1vqw__",
       linkedin: "https://www.linkedin.com/"
     }
   ];
