@@ -45,14 +45,14 @@ const Team = () => {
       name: "Mr. Abishek Sinha",
       title: "Business Mentor",
       description: "Co-founder CEO, Eko India Financial Services",
-      imageSrc: "https://placeholder.pics/svg/300x300/DEDEDE/555555/Abishek%20Sinha",
+      imageSrc: "https://media-hosting.imagekit.io/33b4ca7ec9134b48/Abhishek%20Sinha%20Co-Founder%20Eko%20Indian%20Financial%20Service.png?Expires=1837955846&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=pUI0il9TutYte54Yun1GbVtafigpj8ojIk4mA2tk3hesIcQKZFLR4K7DxGkOvTkJ3YuW775gmiBtAja5vmbe17XIl4KMVgQjgTlMH-3IzGUv9NMbYJgjSPTW528~NJdA-agIDaBwuwBAJEXNySb-vU-fXaWu0AjwawTKkoepD7-7Js4HOPq-CHEifJ8FYDeFXWp8lo1YWj-2F1XZHOm08ZXsfKeY-O~720jLN65VZ21LaU-0~HtCyANAksFBPuIqW0bkFmiIQRV0YEtXq6BD5JCOmNvh7zivhIxb4ltwz7m6bcV94A4H6KcgWvslg0Fn77ZTjFz~CBv3xA8KstJ3ig__",
       linkedin: "https://www.linkedin.com/"
     },
     {
       name: "Mr. Mahesh Kumar Hota",
       title: "Aviation Expert",
       description: "EX-MROServices Supervisor and ITOps in Military Aviation, Indian Air Force (IAF)",
-      imageSrc: "https://placeholder.pics/svg/300x300/DEDEDE/555555/Mahesh%20Hota",
+      imageSrc: "https://media-hosting.imagekit.io/e2502fc34b184bd6/Mahesh%20Kumar%20Hota%20Ex%20Indian%20Airforce%20Officer%20ITOPS%20Indian%20Millitary%20Service.png?Expires=1837955821&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=tbuFMdevXsLe~SoFQ0Sc2GIYUHkBmRizI5UFFB77bx00sJWUDVL7S~0-SCVIFWNtfJx1camQ-SaCBqpv8eGGM2m6MSj4PThfET9Fd0k~R-qdxiNFWcGrm5xevjpgDSRKAeqLVcNaLS-ThW6kzioenA0pSVeg06XHxykO6QqKCJn40Rhb0v4z4zmoFtZwJ2D~pRYWYJrom0dO125obGUvqiMwq6Vys2Bpgc3kgAQLKJI~2NC52LfgpvsPiz9E~L6KAN7B97Lmy00l5BhhcpiNKo-tD8BUxeFIBLV6gGWAHH0SkLAKZ3sbEDGMMsbXzcekEnG1nercHlfUXq8AapGnNg__",
       linkedin: "https://www.linkedin.com/"
     }
   ];
