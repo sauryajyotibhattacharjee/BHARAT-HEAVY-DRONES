@@ -18,7 +18,7 @@ const Team = () => {
       name: "Saurajyoti Bhattacharjee",
       title: "Founder & Chief Operational Officer",
       description: "Software Developer — AI-ML Expert",
-      imageSrc: "https://placeholder.pics/svg/300x300/DEDEDE/555555/Saurajyoti%20B",
+      imageSrc: "https://media-hosting.imagekit.io/f1d6b196a18445ef/saura.png?Expires=1837955435&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=2xAToyfu09OA-KK23X08Df2CZ6XyH7IKTGVT359gN3WNWlixjB7bV-6KtZBExN0ECNA1ejOgXQcu9fXLJp-kCNecmn~rXPNvobhFTnCqBwYmwSGO~Cbh5~4q~J3RR26Z1YvNOVGDEaWkP7ekFsHrNHsT~kO-fSDq9IkIX~E9BfLvi-Wa2HR3iYcuPFqhIFNqgHfRGEtVhQ7Ndqar2NPtmXfB9eyjTvObRwny2gSoA-THw8RRhpUOuNr1G5o5LezwEZTZnnYGHg-uGHEuPxe8rcHfP0yjI~qtk3wKF8RdMAFbBiOCkjPkFyym8TJr7tfGscslSa9Ojosz6ejJLYP8xA__",
       linkedin: "https://www.linkedin.com/",
       email: "bharatdronetech@gmail.com"
     }
