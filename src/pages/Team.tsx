@@ -17,7 +17,7 @@ const Team = () => {
       name: "Saurajyoti Bhattacharjee",
       title: "Founder & Chief Operational Officer",
       description: "Software Developer — AI-ML Expert",
-      imageSrc: "https://media-hosting.imagekit.io/f1d6b196a18445ef/saura.png?Expires=1837955435&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=2xAToyfu09OA-KK23X08Df2CZ6XyH7IKTGVT359gN3WNWlixjB7bV-6KtZBExN0ECNA1ejOgXQcu9fXLJp-kCNecmn~rXPNvobhFTnCqBwYmwSGO~Cbh5~4q~J3RR26Z1YvNOVGDEaWkP7ekFsHrNHsT~kO-fSDq9IkIX~E9BfLvi-Wa2HR3iYcuPFqhIFNqgHfRGEtVhQ7Ndqar2NPtmXfB9eyjTvObRwny2gSoA-THw8RRhpUOuNr1G5o5LezwEZTZnnYGHg-uGHEuPxe8rcHfP0yjI~qtk3wKF8RdMAFbBiOCkjPkFyym8TJr7tfGscslSa9Ojosz6ejJLYP8xA__",
+      imageSrc: "https://media-hosting.imagekit.io/9a60c3c7ce814665/saura%20(1)%20(1).png?Expires=1837959502&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=OL0X06K2E41Q1lMLeo56LBnb7cA2Ee~ehaqL0E22~Uj19w3xxb10hwzfGrBsy8tp0kKYZC4W54dk35v8sQAeM4WXTjcOVzzXe3wq94KoBy0CWka561x7ZLDe2wV~1xajjhkhsXTx~KjFHoET-0h-5CnEiEM9H6p14a7jnHqBnqhTAgwAdXcMJmpvh8zzhxF1wywMFxmzHM6lt8VsSNBYomkf~9~UumnsxrjMy1-cNXR3-7cO6rvr3XwWOJpTZE4NIlllX6px3Y1OxD24dgVjiwPt7~YwDDU3j4m~jtcKBEZ~33chXgE8BKQDRTQAvusPOV9MDzGz3dsRTo~MDBUjYg__",
       linkedin: "https://www.linkedin.com/",
       email: "bharatdronetech@gmail.com"
     }
@@ -62,7 +62,7 @@ const Team = () => {
       name: "Yash Jha",
       title: "Developer",
       description: "Specializes in drone control systems and firmware development",
-      imageSrc: "https://placeholder.pics/svg/300x300/DEDEDE/555555/Yash%20Jha",
+      imageSrc: "https://media-hosting.imagekit.io/5ba9f6c2598545e0/yash.png?Expires=1837959583&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=n5MaosMbeWzV-ecuFIayMO8A~ep3fbXOMrylbRdI7dyPOGselOJZdfJXluXdMBkB470lAGTSdyHd2nP9WlZxvlXFff2X0ucIN6X-RdLl1HcBHQEEzHqbOjIPLiYT8jTuzSsY8ABAIkmbP08wHeU5igw52sG9jkbCaZw76Abo102IrmW09HQDVhDPyQAc0A5ilIKAaSDGf4lrhGhqxnecunsis5MSWLnRFBx~wIyPlnZG5nhbxp3PvHGAx3a55NrEyDHrXjeFzNvVfapyR4HFQcEOIpdUsDkQwMFUqOQHsQADR2QiHSIwpOC4WgM53hAjwGfwNghDyzed7e81MqXYcA__",
       linkedin: "https://www.linkedin.com/"
     }
   ];
